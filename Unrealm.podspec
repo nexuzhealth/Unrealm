@@ -35,6 +35,6 @@ Getting rid of boilerplate code such @objc dynamic var. Use just var or let
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
 
-  s.dependency 'RealmSwift', '3.18.0'
+  s.dependency 'RealmSwift', '4.0'
   s.dependency 'Runtime', '2.1.0'
 end
